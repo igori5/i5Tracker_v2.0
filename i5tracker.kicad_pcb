@@ -1327,9 +1327,6 @@
   (gr_text "i5Tracker_v2.0" (at 172.72 111.125) (layer "F.SilkS") (tstamp 535b5512-579c-490e-b8c9-085517fca164)
     (effects (font (size 2.5 2.5) (thickness 0.4)))
   )
-  (gr_text "Ms.Amu loves her\nstomach.\nHe's so hungry that\nHe's been using \nNeos Tummy Force\nand established.\nHe seems to eat\n\n\n\nbefore going to\nbed at night." (at 123.825 75.565 90) (layer "F.SilkS") (tstamp a980a211-2f05-4fe9-9674-3c0626618e59)
-    (effects (font (size 1 1) (thickness 0.2)))
-  )
 
   (segment (start 186.675 81.9) (end 172.085 67.31) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0907926f-324c-44c2-b0f2-7631e220e0aa))
   (segment (start 189.23 81.9) (end 186.675 81.9) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0afa5158-d79b-4ce4-abab-3068e68feb1b))
