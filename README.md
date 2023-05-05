@@ -6,3 +6,5 @@ WemosD1は技適が怪しいためESP-WROOM02にしてます。
 RSTとIO0引き出してますが私はボタンとジャンパで書き込みモードにしました。  
 充電管理基板とMPU6500ボードと電池ボックスは中華の汎用品なのでアリエクとかで適当に探してください。  
 色々適当なので信用しないように(重要）
+##作例
+![syashin](https://pbs.twimg.com/media/Fp1uPtKacAEcB36?format=jpg&name=4096x4096)
